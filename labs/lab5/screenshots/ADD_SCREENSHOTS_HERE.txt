@@ -1,1 +1,0 @@
-Add the required MongoDB Atlas and Postman screenshots to this folder before making the final submission ZIP.
