@@ -1,0 +1,15 @@
+{
+  "name": "101570138_comp3123-exec05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Pritesh Patel - Exercise Lab 05",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
